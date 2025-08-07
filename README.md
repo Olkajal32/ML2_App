@@ -1,1 +1,1 @@
-# ML2_App
+#Diabetes_Prediction_Model
